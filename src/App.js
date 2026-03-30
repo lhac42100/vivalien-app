@@ -219,7 +219,6 @@ function AuthScreen({ toast }) {
   };
 
   const roles = [
-    {id:"admin",label:"Admin",icon:"⚙️"},
     {id:"companion",label:"Compagnon",icon:"🌿"},
     {id:"family",label:"Famille",icon:"👨‍👩‍👧"},
   ];
